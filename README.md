@@ -8,7 +8,7 @@ No cloud, no API keys — 100% offline.
 ---
 
 🛠 Requirements
-
+<img width="1920" height="1080" alt="logo with name on them 1" src="https://github.com/user-attachments/assets/d6ed8502-fb96-4ed7-ac80-b0864d406397" />
 - Python **3.10+**
 - Git  
 - Conda (recommended)
@@ -16,7 +16,6 @@ No cloud, no API keys — 100% offline.
 - OpenAI Whisper
 - Coqui TTS
 - GPU with CUDA *(optional but much faster)*
-<img width="1920" height="1080" alt="logo with name on them 1" src="https://github.com/user-attachments/assets/d6ed8502-fb96-4ed7-ac80-b0864d406397" />
 
 ✨ Features
 
@@ -207,4 +206,5 @@ Thanks for making this possible 🙏😁
 
 
                      
+
 
