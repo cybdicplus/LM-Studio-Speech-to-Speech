@@ -167,6 +167,10 @@ Say “stop listening” → to stop the model
 Press P → pause/resume
 Press S → stop speaking mid-sentence
 
+
+https://youtu.be/r3UFkIF_Hmw
+
+
 🔄 Updating
 To update to the latest version:
 Go to the cybdic GitHub page
@@ -206,5 +210,6 @@ Thanks for making this possible 🙏😁
 
 
                      
+
 
 
