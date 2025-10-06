@@ -12,10 +12,11 @@ No cloud, no API keys — 100% offline.
 - Python **3.10+**
 - Git  
 - Conda (recommended)
-- GPU with CUDA *(optional but much faster)*
 - LM Studio installed
-
----
+- OpenAI Whisper
+- Coqui TTS
+- GPU with CUDA *(optional but much faster)*
+<img width="1920" height="1080" alt="logo with name on them 1" src="https://github.com/user-attachments/assets/d6ed8502-fb96-4ed7-ac80-b0864d406397" />
 
 ✨ Features
 
@@ -126,7 +127,7 @@ Dolphin3.0-Llama3.1-8B
 
 
 🚀 Usage
-
+<img width="1920" height="1080" alt="pipeline workflow with icons" src="https://github.com/user-attachments/assets/95bc1bce-f3c3-4c0d-b61c-eb8324327112" />
 1. Speak into your mic 🎤
 2. Whisper → converts speech to text
 3. LM Studio → generates AI reply
@@ -182,8 +183,8 @@ Replace your old one inside CoquiPipeline
 - [OpenAI Whisper](https://github.com/openai/whisper)
 - [Coqui TTS](https://github.com/coqui-ai/TTS)
 - [LM Studio](https://lmstudio.ai/)
-                                😁
-Thanks for making this possible 🙏
+  
+Thanks for making this possible 🙏😁
 
 
 
@@ -206,3 +207,4 @@ Thanks for making this possible 🙏
 
 
                      
+
