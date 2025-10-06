@@ -168,9 +168,17 @@ Press P → pause/resume
 Press S → stop speaking mid-sentence
 
 
+
+
+
+
 🎬 **Demo Video**
 
 [![Watch the video](https://img.youtube.com/vi/r3UFkIF_Hmw/0.jpg)](https://youtu.be/r3UFkIF_Hmw)
+
+
+
+
 
 
 
@@ -213,6 +221,7 @@ Thanks for making this possible 🙏😁
 
 
                      
+
 
 
 
