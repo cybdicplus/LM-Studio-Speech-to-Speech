@@ -31,8 +31,8 @@ No cloud, no API keys — 100% offline.
 📦 Setup
 
 1️⃣ Clone this repo
-git clone https://github.com/YOUR-USERNAME/voice-ai-pipeline.git
-cd voice-ai-pipeline
+git clone https://github.com/cybdicplus/LM-Studio-Speech-to-Speech.git
+cd LM-Studio-Speech-to-Speech
 
 2️⃣ Install Whisper (Speech-to-Text)
 conda create -n whisper python=3.10.11 -y
@@ -184,6 +184,7 @@ Replace your old one inside CoquiPipeline
 - [LM Studio](https://lmstudio.ai/)
                                 😁
 Thanks for making this possible 🙏
+
 
 
 
