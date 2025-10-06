@@ -167,12 +167,10 @@ Say “stop listening” → to stop the model
 Press P → pause/resume
 Press S → stop speaking mid-sentence
 
-[![Watch the video](https://img.youtube.com/vi/r3UFkIF_Hmw/0.jpg)](https://youtu.be/r3UFkIF_Hmw)
-https://youtu.be/r3UFkIF_Hmw
 
 🎬 **Demo Video**
 
-[![Watch on YouTube](https://img.shields.io/badge/🎥_Watch_on_YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/r3UFkIF_Hmw)
+[![Watch the video](https://img.youtube.com/vi/r3UFkIF_Hmw/0.jpg)](https://youtu.be/r3UFkIF_Hmw)
 
 
 
@@ -215,6 +213,7 @@ Thanks for making this possible 🙏😁
 
 
                      
+
 
 
 
